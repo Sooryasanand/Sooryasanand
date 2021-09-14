@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there 👋, my name is Soorya Sanand
+Hi, I am Soorya, I am a 16-year-old teenager who loves to code apps and study new languages. Some of my Projects are listed in the Repositories tab. 
 
-<!--
-**Sooryasanand/Sooryasanand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills: REACT NATIVE / REACT / JS / HTML / CSS / NODE / NPM
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on a WhatsApp UI Clone 
+- 🌱 I’m currently learning React Native 
+- 📫 How to reach me: Gmail, Linkedin, Github 
+- ⚡ Fun fact: I am Indian, So I must be good at coding..  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Sooryasanand)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sooryanarayanan-sanand/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/soorya_s14/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/SooryaSanand)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/12674722)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Sooryasanand)  
+
+![Profile views](https://gpvc.arturio.dev/Sooryasanand)  
