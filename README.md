@@ -9,3 +9,4 @@ Skills: REACT NATIVE / REACT / JS / HTML / CSS / NODE / NPM
 
 
 ![Soorya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sooryasanand&show_icons=true&theme=onedark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sooryasanand&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
