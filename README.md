@@ -8,4 +8,4 @@ Skills: REACT NATIVE / REACT / JS / HTML / CSS / NODE / NPM
 - ⚡ Fun fact: I am Indian, So I must be good with computers..  
 
 
-![Soorya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sooryasanand&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+![Soorya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sooryasanand&show_icons=true&theme=highcontrast)
