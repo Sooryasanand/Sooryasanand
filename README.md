@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Soorya Sanand
 Hi, I am Soorya, I am a 16-year-old teenager who loves to code apps and study new languages. Some of my Projects are listed in the Repositories tab. 
 
-## 🧰 My toolbox
+## 🧰 &nbsp; My toolbox
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -20,13 +20,13 @@ Hi, I am Soorya, I am a 16-year-old teenager who loves to code apps and study ne
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## 🤔 About Me
+## 🤔 &nbsp; About Me
 - 🌱 I’m currently learning React Native 
 - 📫 How to reach me: Gmail, Linkedin, Github 
 - ⚡ Fun fact: I am Indian, So I must be good with computers..  
 
 
-## 📊 Stats
+## 📊 &nbsp; Stats
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" style="height: 12em" src="https://github-readme-stats.vercel.app/api?username=Sooryasanand&show_icons=true&theme=onedark" /></a><a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" style="height: 12em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sooryasanand&langs_count=10&layout=compact&theme=dark" /></a>
 <a href="https://git.io/streak-stats">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sooryasanand&theme=onedark" style="height: 12rem;" />
