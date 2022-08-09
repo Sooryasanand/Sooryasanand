@@ -27,8 +27,8 @@ Hi, I am Soorya, I am a 16-year-old teenager who loves to code apps and study ne
 
 
 ## 📊 &nbsp; Stats
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" style="height: 12em; margin-botton: 10px" src="https://github-readme-stats.vercel.app/api?username=Sooryasanand&show_icons=true&theme=onedark" /></a><br />
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" style="height: 12em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sooryasanand&langs_count=10&layout=compact&theme=dark" /></a><br />
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" style="height: 12em; margin-bottom: 2em" src="https://github-readme-stats.vercel.app/api?username=Sooryasanand&show_icons=true&theme=onedark" /></a><br />
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" style="height: 12em; margin-bottom: 2em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sooryasanand&langs_count=10&layout=compact&theme=dark" /></a><br />
 <a href="https://git.io/streak-stats">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sooryasanand&theme=onedark" style="height: 12rem;" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sooryasanand&theme=onedark" style="height: 12rem; margin-bottom: 2em" />
 </a>
