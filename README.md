@@ -21,7 +21,7 @@ Hi, I am Soorya, I am a 16-year-old teenager who loves to code apps and study ne
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## 🤔 &nbsp; About Me
-- 🌱 I’m currently learning React Native 
+- 🌱 I’m currently learning IOS Development so swift and swiftUI
 - 📫 How to reach me: Gmail, Linkedin, Github 
 - ⚡ Fun fact: I am Indian, So I must be good with computers..  
 
