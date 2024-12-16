@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Soorya Sanand
-Hi, I am Soorya, I am developer who loves to code apps and study new languages. Some of my Projects are listed in the Repositories tab. 
+I'm a passionate developer who loves building apps and exploring new programming languages. Check out some of my projects in the Repositories tab!
 
 ## 🧰 &nbsp; My toolbox
 
